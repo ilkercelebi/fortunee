@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Inter", sans-serif;
+  --color-primary: #7f13ec;
+  --color-background-light: #f7f6f8;
+  --color-background-dark: #191022;
+  --color-gold: #D4AF37;
+  --color-secondary-purple: #362348;
+}
+
+@utility glass-card {
+  background: rgba(40, 25, 55, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+@utility cosmic-bg {
+  background: radial-gradient(circle at top right, #362348, #191022 50%),
+              radial-gradient(circle at bottom left, #7f13ec33, #191022 40%);
+}
+
+@utility gold-glow {
+  &:hover {
+    box-shadow: 0 0 20px rgba(212, 175, 55, 0.3);
+  }
+}
+
+body {
+  font-family: var(--font-display);
+}

@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "title": "Fortune AI ✨",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "privacy": "Privacy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "download": "Download"
+  },
+  "hero": {
+    "badge": "AI-Powered Astrology",
+    "title1": "What Are the Stars",
+    "title2": "Telling You?",
+    "subtitle": "AI-powered coffee reading, tarot, palm reading, dream interpretation & horoscope.",
+    "downloadAppStore": "Download on the",
+    "appStore": "App Store",
+    "learnMore": "Learn More",
+    "stat1": "50,000+",
+    "stat1Label": "Readings",
+    "stat2": "11 Languages",
+    "stat2Label": "Languages",
+    "stat3": "4.8 ★",
+    "stat3Label": "App Store Score"
+  },
+  "features": {
+    "title": "Features",
+    "coffee": { "title": "Coffee Reading", "sub": "AI Coffee Analysis" },
+    "tarot": { "title": "Tarot", "sub": "Universal Tarot Spreads" },
+    "palm": { "title": "Palm Reading", "sub": "Palmistry Insights" },
+    "dreams": { "title": "Dream Decoding", "sub": "Interpretation" },
+    "horoscope": { "title": "Horoscope", "sub": "Daily Guides" }
+  },
+  "screenshots": {
+    "title": "App Interface",
+    "subtitle": "Where mysticism meets technology."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Shed light on your future in three steps.",
+    "step1": { "title": "Select", "desc": "Choose your reading type." },
+    "step2": { "title": "Upload", "desc": "Capture photo or pick cards." },
+    "step3": { "title": "Discover", "desc": "Get instant AI insights." }
+  },
+  "testimonials": {
+    "title": "User Testimonials",
+    "scoreLabel": "4.8/5.0",
+    "review1": "\"The AI interpretations are incredibly accurate! Coffee reading is just unbelievable.\"",
+    "user1": "Selin Y.",
+    "review2": "\"The Tarot readings are eerily accurate. Best fortune app I've used so far.\"",
+    "user2": "Mark D.",
+    "review3": "\"I can't start my day without reading the daily horoscopes. Very sleek design.\"",
+    "user3": "Elif K."
+  },
+  "privacy": {
+    "security": "Security",
+    "privacyTitle": "Privacy",
+    "privacyDesc": "Your data is protected with military-grade encryption. No third-party sharing.",
+    "readMore": "Read More",
+    "legal": "Legal",
+    "tosTitle": "Terms of Service",
+    "tosDesc": "Detailed information about subscription and usage terms can be found here.",
+    "gdpr": "GDPR",
+    "dataTitle": "Data Protection",
+    "dataDesc": "Your data is only processed for reading purposes and privacy is our priority."
+  },
+  "cta": {
+    "title1": "Ready to Discover",
+    "title2": "Your Destiny?",
+    "desc": "Join hundreds of thousands and shed light on your future with the power of AI.",
+    "downloadAppStore": "Download on the",
+    "appStore": "App Store",
+    "scan": "Scan to download"
+  },
+  "footer": {
+    "desc": "Future is at your fingertips.",
+    "support": "Support",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "feedback": "Feedback",
+    "company": "Company",
+    "about": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookies",
+    "kvkk": "GDPR / Data Protection Notice",
+    "copyright": "© 2026 Fortune AI. All Rights Reserved.",
+    "designed": "Designed with ✨ for the future."
+  },
+  "privacyPage": {
+    "header": {
+      "title": "Privacy Policy",
+      "updated": "Last Updated: March 11, 2026"
+    },
+    "nav": {
+      "dataCollected": "Data Collected",
+      "useOfData": "Use of Data",
+      "sharing": "Sharing",
+      "cookies": "Cookies",
+      "security": "Security",
+      "rights": "Your Rights"
+    },
+    "sections": {
+      "dataCollected": {
+        "title": "Data Collected",
+        "content": "We collect your name, date of birth, and app usage data to provide Fortune AI services. This data is necessary to provide you with more accurate fortune-telling interpretations."
+      },
+      "useOfData": {
+        "title": "Use of Data",
+        "content": "We use your data to train our AI models, personalize the user experience, and troubleshoot technical errors."
+      },
+      "sharing": {
+        "title": "Sharing",
+        "content": "Your personal data is never sold to third parties. It may only be shared anonymously with trusted business partners providing cloud storage and analytics services."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "We use cookies and similar technologies to remember app preferences and ensure session security."
+      },
+      "security": {
+        "title": "Security",
+        "content": "Your data is protected using industry-standard encryption methods (SSL/TLS). Our servers are hosted in high-security data centers."
+      },
+      "rights": {
+        "title": "Rights",
+        "content": "Under KVKK and GDPR, you have the right to access, rectify, and request the deletion of your data."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "You can contact us for any questions about our privacy policy:",
+        "copyEmail": "Copy Email",
+        "emailCopied": "Email Copied!"
+      }
+    }
+  },
+  "termsPage": {
+    "header": {
+      "title": "Terms of Service",
+      "updated": "Last Updated: March 11, 2026"
+    },
+    "index": "Index",
+    "nav": {
+      "section1": "1. Service Description",
+      "section2": "2. Account Creation",
+      "section3": "3. Payments",
+      "section4": "4. Intellectual Property",
+      "section5": "5. Rules",
+      "section6": "6. Liability",
+      "section7": "7. Changes",
+      "section8": "8. Contact"
+    },
+    "sections": {
+      "section1": {
+        "title": "1. Service Description",
+        "content": "Fortune AI provides astrology and AI-based insights. The content provided is for entertainment purposes only and does not constitute professional advice."
+      },
+      "section2": {
+        "title": "2. Account Creation",
+        "content": "Users must provide accurate, current, and complete information during registration. You are responsible for the security of your account."
+      },
+      "section3": {
+        "title": "3. Payments",
+        "content": "Payments for premium services are based on specified tariffs. Fees are non-refundable, except where legal withdrawal rights apply."
+      },
+      "section4": {
+        "title": "4. Intellectual Property",
+        "content": "The Fortune AI logo, design, and generated texts are under our intellectual property rights. They cannot be copied or used for commercial purposes without permission."
+      },
+      "section5": {
+        "title": "5. Rules of Conduct",
+        "content": "It is prohibited to use the service for illegal purposes, attempt to harm the system, or harass other users."
+      },
+      "section6": {
+        "title": "6. Limitation of Liability",
+        "content": "Fortune AI does not guarantee the accuracy of predictions. The company cannot be held liable for any damages resulting from decisions made based on these predictions."
+      },
+      "section7": {
+        "title": "7. Changes to Terms",
+        "content": "We reserve the right to update these terms at any time. Changes become effective as soon as they are published."
+      },
+      "section8": {
+        "title": "8. Contact Us",
+        "content": "For your questions, you can contact us via legal@fortune-ai.com.",
+        "button": "Contact Support"
+      }
+    }
+  },
+  "kvkkPage": {
+    "header": {
+      "title": "Data Protection Notice",
+      "subtitle": "Your privacy is written in the stars, but secured by technology. Learn how we handle your cosmic data."
+    },
+    "badges": {
+      "kvkk": "KVKK Compliant",
+      "kvkkSub": "Legal Compliance",
+      "gdpr": "GDPR Certified",
+      "gdprSub": "EU Standards",
+      "ssl": "256-bit SSL",
+      "sslSub": "End-to-End Secure"
+    },
+    "controller": {
+      "title": "Data Controller",
+      "content": "Fortune AI Technology Inc. acts as the data controller in accordance with Law No. 6698. Our company is registered at the following address: Istanbul Tech Valley, No: 44."
+    },
+    "processedData": {
+      "title": "Processed Data",
+      "col1": "Category",
+      "col2": "Data Types",
+      "rows": {
+        "identity": { "cat": "Identity", "types": "Name, Surname, Birth Date" },
+        "contact": { "cat": "Contact", "types": "Email, Phone Number" },
+        "usage": { "cat": "Usage", "types": "AI Prompt History, Preferences" }
+      }
+    },
+    "methods": {
+      "title": "Methods & Purposes",
+      "content": "Data is collected through digital forms and mobile application interfaces automatically. Purposes include enhancing AI accuracy and providing personalized horoscopes."
+    },
+    "transfers": {
+      "title": "Data Transfers",
+      "content": "Your data is not shared with third-party advertisers. Transfers are limited to cloud infrastructure providers (AWS/Google Cloud) located in Turkey or GDPR-compliant regions."
+    },
+    "rights": {
+      "title": "Your Rights (Art 11)",
+      "list": [
+        "Right to be informed",
+        "Right to rectification",
+        "Right to erasure",
+        "Right to data portability"
+      ],
+      "button": "Submit Application"
+    }
+  },
+  "contactPage": {
+    "header": {
+      "title": "Contact Us",
+      "subtitle": "We are here for your questions. Our team will get back to you shortly."
+    },
+    "form": {
+      "title": "Send a Message",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email",
+      "emailPlaceholder": "john@example.com",
+      "subjectLabel": "Subject",
+      "subjects": [
+        "General Support",
+        "Subscription Issues",
+        "Data Privacy",
+        "Partnership"
+      ],
+      "messageLabel": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "submit": "Send"
+    },
+    "info": {
+      "emailTitle": "Email",
+      "addressTitle": "Address",
+      "address1": "Levent, Büyükdere Cd. No:199",
+      "address2": "34394 Şişli/İstanbul, TR",
+      "timeTitle": "Response Time",
+      "time1": "Average 24 Hours",
+      "time2": "Weekdays 09:00 - 18:00 (GMT+3)",
+      "mapBtn": "View on Map"
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How is my data protected?",
+      "a1": "Fortune AI protects your data with end-to-end encryption. No personal data is shared with third parties.",
+      "q2": "What is the refund policy?",
+      "a2": "If you are not satisfied, you can request a refund within the first 14 days.",
+      "q3": "GDPR & Privacy",
+      "a3": "You can access our GDPR-compliant data processing policy on the privacy page."
+    }
+  }
+}

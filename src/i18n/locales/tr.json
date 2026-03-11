@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "title": "Fortune AI ✨",
+    "features": "Özellikler",
+    "howItWorks": "Nasıl Çalışır",
+    "privacy": "Gizlilik",
+    "terms": "Kullanım Koşulları",
+    "contact": "İletişim",
+    "download": "İndir"
+  },
+  "hero": {
+    "badge": "Yapay Zeka Astroloji",
+    "title1": "Yıldızlar Sana",
+    "title2": "Ne Söylüyor?",
+    "subtitle": "Yapay zeka destekli kahve falı, tarot, el falı ve rüya yorumu ile kaderini keşfet.",
+    "downloadAppStore": "App Store'dan",
+    "appStore": "İndir",
+    "learnMore": "Daha Fazla Bilgi",
+    "stat1": "50,000+",
+    "stat1Label": "Yorum",
+    "stat2": "11 Dil",
+    "stat2Label": "Dil Seçeneği",
+    "stat3": "4.8 ★",
+    "stat3Label": "App Store Puanı"
+  },
+  "features": {
+    "title": "Özellikler",
+    "coffee": { "title": "Kahve Falı", "sub": "Yapay zeka ile fincanını yorumla." },
+    "tarot": { "title": "Tarot", "sub": "Kartların gizemli dünyası." },
+    "palm": { "title": "El Falı", "sub": "Avuç içindeki çizgiler." },
+    "dreams": { "title": "Rüya Yorumu", "sub": "Rüyalarının anlamını keşfet." },
+    "horoscope": { "title": "Burçlar", "sub": "Günlük astrolojik rehberin." }
+  },
+  "screenshots": {
+    "title": "Uygulama Görüntüleri",
+    "subtitle": "Mistisizm ve teknolojinin buluşma noktası."
+  },
+  "howItWorks": {
+    "title": "Nasıl Çalışır?",
+    "subtitle": "Üç adımda geleceğine ışık tut.",
+    "step1": { "title": "Seç", "desc": "Kahve, Tarot veya Burç türünü seç." },
+    "step2": { "title": "Yükle", "desc": "Fotoğraf çek veya kartlarını seç." },
+    "step3": { "title": "Keşfet", "desc": "AI sonuçlarını anında oku." }
+  },
+  "testimonials": {
+    "title": "Kullanıcı Yorumları",
+    "scoreLabel": "4.8/5.0",
+    "review1": "\"Yapay zeka bu kadar mı isabetli yorum yapar! Kahve falı tek kelimeyle inanılmaz.\"",
+    "user1": "Selin Y.",
+    "review2": "\"Tarot yorumları ürpertici derecede isabetli. Şu ana kadar kullandığım en iyi fal uygulaması.\"",
+    "user2": "Mark D.",
+    "review3": "\"Günlük burç yorumlarını okumadan güne başlamıyorum. Tasarımı çok şık.\"",
+    "user3": "Elif K."
+  },
+  "privacy": {
+    "security": "Güvenlik",
+    "privacyTitle": "Gizlilik Politikası",
+    "privacyDesc": "Verileriniz askeri düzeyde şifreleme ile korunur. Third-party paylaşım asla yapılmaz.",
+    "readMore": "Oku",
+    "legal": "Hukuk",
+    "tosTitle": "Kullanım Koşulları",
+    "tosDesc": "Abonelik ve kullanım şartları hakkında detaylı bilgiye buradan ulaşabilirsiniz.",
+    "gdpr": "KVKK",
+    "dataTitle": "Veri Koruma",
+    "dataDesc": "Verileriniz sadece fal yorumlama amacıyla işlenir ve gizliliğiniz önceliğimizdir."
+  },
+  "cta": {
+    "title1": "Kaderini Keşfetmeye",
+    "title2": "Hazır Mısın?",
+    "desc": "Yüz binlerce kişinin arasına katıl ve yapay zekanın gücüyle geleceğine ışık tut.",
+    "downloadAppStore": "App Store'dan",
+    "appStore": "İndir",
+    "scan": "İndirmek için okut"
+  },
+  "footer": {
+    "desc": "Gelecek artık parmaklarının ucunda.",
+    "support": "Destek",
+    "faq": "Sıkça Sorulan Sorular",
+    "contact": "İletişim",
+    "feedback": "Geri Bildirim",
+    "company": "Kurumsal",
+    "about": "Hakkımızda",
+    "careers": "Kariyer",
+    "blog": "Blog",
+    "legal": "Yasal",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "cookies": "Çerez Politikası",
+    "kvkk": "KVKK Aydınlatma Metni",
+    "copyright": "© 2026 Fortune AI. Tüm Hakları Saklıdır.",
+    "designed": "Gelecek için ✨ ile tasarlandı."
+  },
+  "privacyPage": {
+    "header": {
+      "title": "Gizlilik Politikası",
+      "updated": "Son Güncelleme: 11 Mart 2026"
+    },
+    "nav": {
+      "dataCollected": "Veri Toplama",
+      "useOfData": "Veri Kullanımı",
+      "sharing": "Veri Paylaşımı",
+      "cookies": "Çerezler",
+      "security": "Güvenlik",
+      "rights": "Haklarınız"
+    },
+    "sections": {
+      "dataCollected": {
+        "title": "Veri Toplama",
+        "content": "Fortune AI hizmetlerini sunabilmek için adınız, doğum tarihiniz ve uygulama kullanım verilerinizi toplarız. Bu veriler size daha isabetli fal yorumları sunmak için gereklidir."
+      },
+      "useOfData": {
+        "title": "Veri Kullanımı",
+        "content": "Verilerinizi yapay zeka modellerimizi eğitmek, kullanıcı deneyimini kişiselleştirmek ve teknik hataları gidermek amacıyla kullanıyoruz."
+      },
+      "sharing": {
+        "title": "Veri Paylaşımı",
+        "content": "Kişisel verileriniz asla üçüncü şahıslara satılmaz. Sadece bulut depolama ve analiz hizmetleri sunan güvenilir iş ortaklarımızla anonim olarak paylaşılabilir."
+      },
+      "cookies": {
+        "title": "Çerezler",
+        "content": "Uygulama tercihlerini hatırlamak ve oturum güvenliğini sağlamak için çerezler ve benzeri teknolojiler kullanıyoruz."
+      },
+      "security": {
+        "title": "Güvenlik",
+        "content": "Verileriniz endüstri standardı şifreleme yöntemleri (SSL/TLS) ile korunmaktadır. Sunucularımız yüksek güvenlikli veri merkezlerinde barındırılmaktadır."
+      },
+      "rights": {
+        "title": "Haklarınız",
+        "content": "KVKK ve GDPR kapsamında verilerinize erişme, düzeltme ve silinmesini talep etme hakkına sahipsiniz."
+      },
+      "contact": {
+        "title": "İletişim",
+        "content": "Gizlilik politikamız hakkında sorularınız için bize ulaşabilirsiniz:",
+        "copyEmail": "E-postayı Kopyala",
+        "emailCopied": "Kopyalandı!"
+      }
+    }
+  },
+  "termsPage": {
+    "header": {
+      "title": "Kullanım Koşulları",
+      "updated": "Son Güncelleme: 11 Mart 2026"
+    },
+    "index": "İçindekiler",
+    "nav": {
+      "section1": "1. Hizmet Tanımı",
+      "section2": "2. Hesap Oluşturma",
+      "section3": "3. Ödemeler",
+      "section4": "4. Fikri Mülkiyet",
+      "section5": "5. Kurallar",
+      "section6": "6. Sorumluluk",
+      "section7": "7. Değişiklikler",
+      "section8": "8. İletişim"
+    },
+    "sections": {
+      "section1": {
+        "title": "1. Hizmet Tanımı",
+        "content": "Fortune AI, astroloji ve yapay zeka tabanlı öngörüler sunar. Sunulan içerikler yalnızca eğlence amaçlıdır ve profesyonel tavsiye niteliği taşımaz."
+      },
+      "section2": {
+        "title": "2. Hesap Oluşturma",
+        "content": "Kullanıcılar kayıt sırasında doğru, güncel ve eksiksiz bilgi vermelidir. Hesabınızın güvenliğinden siz sorumlusunuz."
+      },
+      "section3": {
+        "title": "3. Ödemeler",
+        "content": "Premium hizmetler için ödemeler belirtilen tarifeler üzerinden yapılır. Ücretler iade edilemez, ancak yasalar gereği cayma hakkı saklıdır."
+      },
+      "section4": {
+        "title": "4. Fikri Mülkiyet",
+        "content": "Fortune AI logosu, tasarımı ve üretilen metinler fikri mülkiyet haklarımız altındadır. İzinsiz kopyalanamaz veya ticari amaçla kullanılamaz."
+      },
+      "section5": {
+        "title": "5. Kullanım Kuralları",
+        "content": "Hizmeti yasa dışı amaçlarla kullanmak, sisteme zarar vermeye çalışmak veya diğer kullanıcıları taciz etmek yasaktır."
+      },
+      "section6": {
+        "title": "6. Sorumluluk Sınırı",
+        "content": "Fortune AI, tahminlerin doğruluğunu garanti etmez. Bu tahminlere dayanarak alınan kararlardan doğacak zararlardan şirket sorumlu tutulamaz."
+      },
+      "section7": {
+        "title": "7. Sözleşme Değişiklikleri",
+        "content": "Bu koşulları dilediğimiz zaman güncelleme hakkımızı saklı tutarız. Değişiklikler yayına girdiği an geçerli olur."
+      },
+      "section8": {
+        "title": "8. İletişim",
+        "content": "Sorularınız için bizimle legal@fortune-ai.com adresi üzerinden iletişime geçebilirsiniz.",
+        "button": "Destek ile İletişime Geç"
+      }
+    }
+  },
+  "kvkkPage": {
+    "header": {
+      "title": "KVKK Aydınlatma Metni",
+      "subtitle": "Gizliliğiniz yıldızlarda yazılıdır, ama teknolojiyle güvendedir. Verilerinizi nasıl işlediğimizi öğrenin."
+    },
+    "badges": {
+      "kvkk": "KVKK Uyumlu",
+      "kvkkSub": "Yasal Uyum",
+      "gdpr": "GDPR Sertifikalı",
+      "gdprSub": "AB Standartları",
+      "ssl": "256-bit SSL",
+      "sslSub": "Uçtan Uca Güvenli"
+    },
+    "controller": {
+      "title": "Veri Sorumlusu",
+      "content": "6698 Sayılı Kanun uyarınca Fortune AI Teknoloji A.Ş. veri sorumlusu sıfatıyla hareket etmektedir. Şirket adresimiz: Istanbul Tech Valley, No: 44."
+    },
+    "processedData": {
+      "title": "İşlenen Veriler",
+      "col1": "Kategori",
+      "col2": "Veri Türleri",
+      "rows": {
+        "identity": { "cat": "Kimlik", "types": "Ad, Soyad, Doğum Tarihi" },
+        "contact": { "cat": "İletişim", "types": "E-posta, Telefon" },
+        "usage": { "cat": "Kullanım", "types": "Yapay Zeka Geçmişi, Tercihler" }
+      }
+    },
+    "methods": {
+      "title": "Yöntemler ve Amaçlar",
+      "content": "Verileriniz, dijital formlar ve mobil uygulama arayüzleri aracılığıyla otomatik yollarla toplanmaktadır. İşleme amaçları arasında yapay zeka doğruluğunu artırmak ve kişiselleştirilmiş fal hizmetleri sunmak yer almaktadır."
+    },
+    "transfers": {
+      "title": "Veri Aktarımı",
+      "content": "Verileriniz üçüncü taraf reklamcılarla paylaşılmaz. Aktarımlar, Türkiye veya GDPR uyumlu bölgelerde bulunan bulut altyapı sağlayıcılarıyla (AWS/Google Cloud) sınırlıdır."
+    },
+    "rights": {
+      "title": "Haklarınız (Madde 11)",
+      "list": [
+        "Bilgi alma hakkı",
+        "Düzeltme hakkı",
+        "Silme hakkı",
+        "Veri taşınabilirliği"
+      ],
+      "button": "Başvuru Yap"
+    }
+  },
+  "contactPage": {
+    "header": {
+      "title": "İletişime Geçin",
+      "subtitle": "Sorularınız için buradayız. Ekibimiz size en kısa sürede dönüş yapacaktır."
+    },
+    "form": {
+      "title": "Mesaj Gönderin",
+      "nameLabel": "Ad Soyad",
+      "namePlaceholder": "Ahmet Yılmaz",
+      "emailLabel": "E-posta",
+      "emailPlaceholder": "ahmet@ornek.com",
+      "subjectLabel": "Konu",
+      "subjects": [
+        "Genel Destek",
+        "Üyelik Sorunları",
+        "Veri Güvenliği",
+        "İş Birliği"
+      ],
+      "messageLabel": "Mesajınız",
+      "messagePlaceholder": "Size nasıl yardımcı olabiliriz?",
+      "submit": "Gönder"
+    },
+    "info": {
+      "emailTitle": "E-posta",
+      "addressTitle": "Adres",
+      "address1": "Levent, Büyükdere Cd. No:199",
+      "address2": "34394 Şişli/İstanbul, TR",
+      "timeTitle": "Yanıt Süresi",
+      "time1": "Ortalama 24 Saat",
+      "time2": "Hafta içi 09:00 - 18:00 (GMT+3)",
+      "mapBtn": "Haritada Gör"
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "q1": "Verilerim nasıl korunuyor?",
+      "a1": "Fortune AI, verilerinizi uçtan uca şifreleme ile korur. Hiçbir kişisel veri üçüncü taraflarla paylaşılmaz.",
+      "q2": "İade politikası nedir?",
+      "a2": "Memnun kalmazsanız ilk 14 gün içinde iade talebinde bulunabilirsiniz.",
+      "q3": "KVKK ve Gizlilik",
+      "a3": "KVKK uyumlu veri işleme politikamıza gizlilik sayfasından ulaşabilirsiniz."
+    }
+  }
+}
