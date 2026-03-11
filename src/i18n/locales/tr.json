@@ -1,6 +1,6 @@
 {
   "nav": {
-    "title": "Fortune AI ✨",
+    "title": "Fortune ✨",
     "features": "Özellikler",
     "howItWorks": "Nasıl Çalışır",
     "privacy": "Gizlilik",
@@ -9,10 +9,10 @@
     "download": "İndir"
   },
   "hero": {
-    "badge": "Yapay Zeka Astroloji",
+    "badge": "Mistik Astroloji",
     "title1": "Yıldızlar Sana",
     "title2": "Ne Söylüyor?",
-    "subtitle": "Yapay zeka destekli kahve falı, tarot, el falı ve rüya yorumu ile kaderini keşfet.",
+    "subtitle": "Kadim bilgilerle hazırlanan kahve falı, tarot, el falı ve rüya yorumu ile kaderini keşfet.",
     "downloadAppStore": "App Store'dan",
     "appStore": "İndir",
     "learnMore": "Daha Fazla Bilgi",
@@ -25,11 +25,26 @@
   },
   "features": {
     "title": "Özellikler",
-    "coffee": { "title": "Kahve Falı", "sub": "Yapay zeka ile fincanını yorumla." },
-    "tarot": { "title": "Tarot", "sub": "Kartların gizemli dünyası." },
-    "palm": { "title": "El Falı", "sub": "Avuç içindeki çizgiler." },
-    "dreams": { "title": "Rüya Yorumu", "sub": "Rüyalarının anlamını keşfet." },
-    "horoscope": { "title": "Burçlar", "sub": "Günlük astrolojik rehberin." }
+    "coffee": {
+      "title": "Kahve Falı",
+      "sub": "Sır dolu yöntemlerle fincanını yorumla."
+    },
+    "tarot": {
+      "title": "Tarot",
+      "sub": "Kartların gizemli dünyası."
+    },
+    "palm": {
+      "title": "El Falı",
+      "sub": "Avuç içindeki çizgiler."
+    },
+    "dreams": {
+      "title": "Rüya Yorumu",
+      "sub": "Rüyalarının anlamını keşfet."
+    },
+    "horoscope": {
+      "title": "Burçlar",
+      "sub": "Günlük astrolojik rehberin."
+    }
   },
   "screenshots": {
     "title": "Uygulama Görüntüleri",
@@ -38,14 +53,23 @@
   "howItWorks": {
     "title": "Nasıl Çalışır?",
     "subtitle": "Üç adımda geleceğine ışık tut.",
-    "step1": { "title": "Seç", "desc": "Kahve, Tarot veya Burç türünü seç." },
-    "step2": { "title": "Yükle", "desc": "Fotoğraf çek veya kartlarını seç." },
-    "step3": { "title": "Keşfet", "desc": "AI sonuçlarını anında oku." }
+    "step1": {
+      "title": "Seç",
+      "desc": "Kahve, Tarot veya Burç türünü seç."
+    },
+    "step2": {
+      "title": "Yükle",
+      "desc": "Fotoğraf çek veya kartlarını seç."
+    },
+    "step3": {
+      "title": "Keşfet",
+      "desc": "Sonuçlarını anında oku."
+    }
   },
   "testimonials": {
     "title": "Kullanıcı Yorumları",
     "scoreLabel": "4.8/5.0",
-    "review1": "\"Yapay zeka bu kadar mı isabetli yorum yapar! Kahve falı tek kelimeyle inanılmaz.\"",
+    "review1": "\"Yorumlar bu kadar mı isabetli olur! Kahve falı tek kelimeyle inanılmaz.\"",
     "user1": "Selin Y.",
     "review2": "\"Tarot yorumları ürpertici derecede isabetli. Şu ana kadar kullandığım en iyi fal uygulaması.\"",
     "user2": "Mark D.",
@@ -66,8 +90,8 @@
   },
   "cta": {
     "title1": "Yüz binlerce kişinin arasına katıl",
-    "title2": "ve yapay zekanın gücüyle geleceğine ışık tut.",
-    "desc": "Fortune AI'ı ücretsiz indir ve ilk sana özel falını anında elde et.",
+    "title2": "ve kadim bilgilerin gücüyle geleceğine ışık tut.",
+    "desc": "Fortune'ı ücretsiz indir ve ilk sana özel falını anında elde et.",
     "downloadAppStore": "",
     "appStore": "App Store'dan İndir",
     "scan": "İndirmek için Okut"
@@ -87,7 +111,7 @@
     "terms": "Kullanım Koşulları",
     "cookies": "Çerez Politikası",
     "kvkk": "KVKK Aydınlatma Metni",
-    "copyright": "© 2026 Fortune AI. Tüm Hakları Saklıdır.",
+    "copyright": "© 2026 Fortune. Tüm Hakları Saklıdır.",
     "designed": "Gelecek için ✨ ile tasarlandı."
   },
   "privacyPage": {
@@ -106,11 +130,11 @@
     "sections": {
       "dataCollected": {
         "title": "Veri Toplama",
-        "content": "Fortune AI hizmetlerini sunabilmek için adınız, doğum tarihiniz ve uygulama kullanım verilerinizi toplarız. Bu veriler size daha isabetli fal yorumları sunmak için gereklidir."
+        "content": "Fortune hizmetlerini sunabilmek için adınız, doğum tarihiniz ve uygulama kullanım verilerinizi toplarız. Bu veriler size daha isabetli fal yorumları sunmak için gereklidir."
       },
       "useOfData": {
         "title": "Veri Kullanımı",
-        "content": "Verilerinizi yapay zeka modellerimizi eğitmek, kullanıcı deneyimini kişiselleştirmek ve teknik hataları gidermek amacıyla kullanıyoruz."
+        "content": "Verilerinizi sistemlerimizi geliştirmek, kullanıcı deneyimini kişiselleştirmek ve teknik hataları gidermek amacıyla kullanıyoruz."
       },
       "sharing": {
         "title": "Veri Paylaşımı",
@@ -155,7 +179,7 @@
     "sections": {
       "section1": {
         "title": "1. Hizmet Tanımı",
-        "content": "Fortune AI, astroloji ve yapay zeka tabanlı öngörüler sunar. Sunulan içerikler yalnızca eğlence amaçlıdır ve profesyonel tavsiye niteliği taşımaz."
+        "content": "Fortune, astroloji ve tasavvuf tabanlı öngörüler sunar. Sunulan içerikler yalnızca eğlence amaçlıdır ve profesyonel tavsiye niteliği taşımaz."
       },
       "section2": {
         "title": "2. Hesap Oluşturma",
@@ -167,7 +191,7 @@
       },
       "section4": {
         "title": "4. Fikri Mülkiyet",
-        "content": "Fortune AI logosu, tasarımı ve üretilen metinler fikri mülkiyet haklarımız altındadır. İzinsiz kopyalanamaz veya ticari amaçla kullanılamaz."
+        "content": "Fortune logosu, tasarımı ve üretilen metinler fikri mülkiyet haklarımız altındadır. İzinsiz kopyalanamaz veya ticari amaçla kullanılamaz."
       },
       "section5": {
         "title": "5. Kullanım Kuralları",
@@ -175,7 +199,7 @@
       },
       "section6": {
         "title": "6. Sorumluluk Sınırı",
-        "content": "Fortune AI, tahminlerin doğruluğunu garanti etmez. Bu tahminlere dayanarak alınan kararlardan doğacak zararlardan şirket sorumlu tutulamaz."
+        "content": "Fortune, tahminlerin doğruluğunu garanti etmez. Bu tahminlere dayanarak alınan kararlardan doğacak zararlardan şirket sorumlu tutulamaz."
       },
       "section7": {
         "title": "7. Sözleşme Değişiklikleri",
@@ -203,21 +227,30 @@
     },
     "controller": {
       "title": "Veri Sorumlusu",
-      "content": "6698 Sayılı Kanun uyarınca Fortune AI Teknoloji A.Ş. veri sorumlusu sıfatıyla hareket etmektedir. Şirket adresimiz: Istanbul Tech Valley, No: 44."
+      "content": "6698 Sayılı Kanun uyarınca Fortune Teknoloji A.Ş. veri sorumlusu sıfatıyla hareket etmektedir. Şirket adresimiz: Istanbul Tech Valley, No: 44."
     },
     "processedData": {
       "title": "İşlenen Veriler",
       "col1": "Kategori",
       "col2": "Veri Türleri",
       "rows": {
-        "identity": { "cat": "Kimlik", "types": "Ad, Soyad, Doğum Tarihi" },
-        "contact": { "cat": "İletişim", "types": "E-posta, Telefon" },
-        "usage": { "cat": "Kullanım", "types": "Yapay Zeka Geçmişi, Tercihler" }
+        "identity": {
+          "cat": "Kimlik",
+          "types": "Ad, Soyad, Doğum Tarihi"
+        },
+        "contact": {
+          "cat": "İletişim",
+          "types": "E-posta, Telefon"
+        },
+        "usage": {
+          "cat": "Kullanım",
+          "types": "Geçmiş Aramalar, Tercihler"
+        }
       }
     },
     "methods": {
       "title": "Yöntemler ve Amaçlar",
-      "content": "Verileriniz, dijital formlar ve mobil uygulama arayüzleri aracılığıyla otomatik yollarla toplanmaktadır. İşleme amaçları arasında yapay zeka doğruluğunu artırmak ve kişiselleştirilmiş fal hizmetleri sunmak yer almaktadır."
+      "content": "Verileriniz, dijital formlar ve mobil uygulama arayüzleri aracılığıyla otomatik yollarla toplanmaktadır. İşleme amaçları arasında isabet oranını artırmak ve kişiselleştirilmiş fal hizmetleri sunmak yer almaktadır."
     },
     "transfers": {
       "title": "Veri Aktarımı",
@@ -269,7 +302,7 @@
     "faq": {
       "title": "Sıkça Sorulan Sorular",
       "q1": "Verilerim nasıl korunuyor?",
-      "a1": "Fortune AI, verilerinizi uçtan uca şifreleme ile korur. Hiçbir kişisel veri üçüncü taraflarla paylaşılmaz.",
+      "a1": "Fortune, verilerinizi uçtan uca şifreleme ile korur. Hiçbir kişisel veri üçüncü taraflarla paylaşılmaz.",
       "q2": "İade politikanız nedir?",
       "a2": "Hizmetlerimiz tek kullanımlık dijital içerik (kredi) sağladığı için satın alım sonrası iade yapılamamaktadır.",
       "q3": "KVKK ve Gizlilik",

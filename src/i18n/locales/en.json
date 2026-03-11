@@ -1,6 +1,6 @@
 {
   "nav": {
-    "title": "Fortune AI ✨",
+    "title": "Fortune ✨",
     "features": "Features",
     "howItWorks": "How It Works",
     "privacy": "Privacy",
@@ -9,10 +9,10 @@
     "download": "Download"
   },
   "hero": {
-    "badge": "AI-Powered Astrology",
+    "badge": "Mystic Astrology",
     "title1": "What Are the Stars",
     "title2": "Telling You?",
-    "subtitle": "AI-powered coffee reading, tarot, palm reading, dream interpretation & horoscope.",
+    "subtitle": "Mystical coffee reading, tarot, palm reading, dream interpretation & horoscope.",
     "downloadAppStore": "Download on the",
     "appStore": "App Store",
     "learnMore": "Learn More",
@@ -25,11 +25,26 @@
   },
   "features": {
     "title": "Features",
-    "coffee": { "title": "Coffee Reading", "sub": "AI Coffee Analysis" },
-    "tarot": { "title": "Tarot", "sub": "Universal Tarot Spreads" },
-    "palm": { "title": "Palm Reading", "sub": "Palmistry Insights" },
-    "dreams": { "title": "Dream Decoding", "sub": "Interpretation" },
-    "horoscope": { "title": "Horoscope", "sub": "Daily Guides" }
+    "coffee": {
+      "title": "Coffee Reading",
+      "sub": "Mystical Coffee Analysis"
+    },
+    "tarot": {
+      "title": "Tarot",
+      "sub": "Universal Tarot Spreads"
+    },
+    "palm": {
+      "title": "Palm Reading",
+      "sub": "Palmistry Insights"
+    },
+    "dreams": {
+      "title": "Dream Decoding",
+      "sub": "Interpretation"
+    },
+    "horoscope": {
+      "title": "Horoscope",
+      "sub": "Daily Guides"
+    }
   },
   "screenshots": {
     "title": "App Interface",
@@ -38,14 +53,23 @@
   "howItWorks": {
     "title": "How It Works",
     "subtitle": "Shed light on your future in three steps.",
-    "step1": { "title": "Select", "desc": "Choose your reading type." },
-    "step2": { "title": "Upload", "desc": "Capture photo or pick cards." },
-    "step3": { "title": "Discover", "desc": "Get instant AI insights." }
+    "step1": {
+      "title": "Select",
+      "desc": "Choose your reading type."
+    },
+    "step2": {
+      "title": "Upload",
+      "desc": "Capture photo or pick cards."
+    },
+    "step3": {
+      "title": "Discover",
+      "desc": "Get instant insights."
+    }
   },
   "testimonials": {
     "title": "User Testimonials",
     "scoreLabel": "4.8/5.0",
-    "review1": "\"The AI interpretations are incredibly accurate! Coffee reading is just unbelievable.\"",
+    "review1": "\"The interpretations are incredibly accurate! Coffee reading is just unbelievable.\"",
     "user1": "Selin Y.",
     "review2": "\"The Tarot readings are eerily accurate. Best fortune app I've used so far.\"",
     "user2": "Mark D.",
@@ -66,8 +90,8 @@
   },
   "cta": {
     "title1": "Join hundreds of thousands of people",
-    "title2": "and illuminate your future with AI.",
-    "desc": "Download Fortune AI for free and receive your first personalized reading instantly.",
+    "title2": "and illuminate your future.",
+    "desc": "Download Fortune for free and receive your first personalized reading instantly.",
     "downloadAppStore": "Download on the",
     "appStore": "App Store",
     "scan": "Scan to download"
@@ -87,7 +111,7 @@
     "terms": "Terms of Service",
     "cookies": "Cookies",
     "kvkk": "GDPR / Data Protection Notice",
-    "copyright": "© 2026 Fortune AI. All Rights Reserved.",
+    "copyright": "© 2026 Fortune. All Rights Reserved.",
     "designed": "Designed with ✨ for the future."
   },
   "privacyPage": {
@@ -106,11 +130,11 @@
     "sections": {
       "dataCollected": {
         "title": "Data Collected",
-        "content": "We collect your name, date of birth, and app usage data to provide Fortune AI services. This data is necessary to provide you with more accurate fortune-telling interpretations."
+        "content": "We collect your name, date of birth, and app usage data to provide Fortune services. This data is necessary to provide you with more accurate fortune-telling interpretations."
       },
       "useOfData": {
         "title": "Use of Data",
-        "content": "We use your data to train our AI models, personalize the user experience, and troubleshoot technical errors."
+        "content": "We use your data to improve our systems, personalize the user experience, and troubleshoot technical errors."
       },
       "sharing": {
         "title": "Sharing",
@@ -155,7 +179,7 @@
     "sections": {
       "section1": {
         "title": "1. Service Description",
-        "content": "Fortune AI provides astrology and AI-based insights. The content provided is for entertainment purposes only and does not constitute professional advice."
+        "content": "Fortune provides astrology and mystical insights. The content provided is for entertainment purposes only and does not constitute professional advice."
       },
       "section2": {
         "title": "2. Account Creation",
@@ -167,7 +191,7 @@
       },
       "section4": {
         "title": "4. Intellectual Property",
-        "content": "The Fortune AI logo, design, and generated texts are under our intellectual property rights. They cannot be copied or used for commercial purposes without permission."
+        "content": "The Fortune logo, design, and generated texts are under our intellectual property rights. They cannot be copied or used for commercial purposes without permission."
       },
       "section5": {
         "title": "5. Rules of Conduct",
@@ -175,7 +199,7 @@
       },
       "section6": {
         "title": "6. Limitation of Liability",
-        "content": "Fortune AI does not guarantee the accuracy of predictions. The company cannot be held liable for any damages resulting from decisions made based on these predictions."
+        "content": "Fortune does not guarantee the accuracy of predictions. The company cannot be held liable for any damages resulting from decisions made based on these predictions."
       },
       "section7": {
         "title": "7. Changes to Terms",
@@ -203,21 +227,30 @@
     },
     "controller": {
       "title": "Data Controller",
-      "content": "Fortune AI Technology Inc. acts as the data controller in accordance with Law No. 6698. Our company is registered at the following address: Istanbul Tech Valley, No: 44."
+      "content": "Fortune Technology Inc. acts as the data controller in accordance with Law No. 6698. Our company is registered at the following address: Istanbul Tech Valley, No: 44."
     },
     "processedData": {
       "title": "Processed Data",
       "col1": "Category",
       "col2": "Data Types",
       "rows": {
-        "identity": { "cat": "Identity", "types": "Name, Surname, Birth Date" },
-        "contact": { "cat": "Contact", "types": "Email, Phone Number" },
-        "usage": { "cat": "Usage", "types": "AI Prompt History, Preferences" }
+        "identity": {
+          "cat": "Identity",
+          "types": "Name, Surname, Birth Date"
+        },
+        "contact": {
+          "cat": "Contact",
+          "types": "Email, Phone Number"
+        },
+        "usage": {
+          "cat": "Usage",
+          "types": "Reading History, Preferences"
+        }
       }
     },
     "methods": {
       "title": "Methods & Purposes",
-      "content": "Data is collected through digital forms and mobile application interfaces automatically. Purposes include enhancing AI accuracy and providing personalized horoscopes."
+      "content": "Data is collected through digital forms and mobile application interfaces automatically. Purposes include enhancing accuracy and providing personalized horoscopes."
     },
     "transfers": {
       "title": "Data Transfers",
@@ -269,7 +302,7 @@
     "faq": {
       "title": "FAQ",
       "q1": "How is my data protected?",
-      "a1": "Fortune AI protects your data with end-to-end encryption. No personal data is shared with third parties.",
+      "a1": "Fortune protects your data with end-to-end encryption. No personal data is shared with third parties.",
       "q2": "What is the refund policy?",
       "a2": "Since our services provide single-use digital content (credits), refunds cannot be issued after purchase.",
       "q3": "GDPR & Privacy",
