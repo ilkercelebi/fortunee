@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         
         <Link to="/" className="flex items-center gap-2 group cursor-pointer">
-          <span className="material-symbols-outlined text-gold text-3xl">auto_awesome</span>
+          <span className="material-symbols-outlined text-gold text-3xl"></span>
           <h2 className="text-white text-xl font-extrabold tracking-tight">
             {t('nav.title')}
           </h2>

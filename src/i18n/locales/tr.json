@@ -65,12 +65,12 @@
     "dataDesc": "Verileriniz sadece fal yorumlama amacıyla işlenir ve gizliliğiniz önceliğimizdir."
   },
   "cta": {
-    "title1": "Kaderini Keşfetmeye",
-    "title2": "Hazır Mısın?",
-    "desc": "Yüz binlerce kişinin arasına katıl ve yapay zekanın gücüyle geleceğine ışık tut.",
-    "downloadAppStore": "App Store'dan",
-    "appStore": "İndir",
-    "scan": "İndirmek için okut"
+    "title1": "Yüz binlerce kişinin arasına katıl",
+    "title2": "ve yapay zekanın gücüyle geleceğine ışık tut.",
+    "desc": "Fortune AI'ı ücretsiz indir ve ilk sana özel falını anında elde et.",
+    "downloadAppStore": "",
+    "appStore": "App Store'dan İndir",
+    "scan": "İndirmek için Okut"
   },
   "footer": {
     "desc": "Gelecek artık parmaklarının ucunda.",

@@ -28,6 +28,10 @@ const Terms = () => {
               <a 
                 key={sec.id}
                 href={`#${sec.id}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  document.getElementById(sec.id)?.scrollIntoView({ behavior: 'smooth' });
+                }}
                 className="flex items-center gap-3 px-3 py-2 rounded-lg hover:bg-primary/20 transition-colors text-sm text-slate-300"
               >
                 <span className="material-symbols-outlined text-primary text-lg">{sec.icon}</span>

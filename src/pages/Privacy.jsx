@@ -81,6 +81,10 @@ const Privacy = () => {
               <a 
                 key={sec.id}
                 href={`#${sec.id}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  document.getElementById(sec.id)?.scrollIntoView({ behavior: 'smooth' });
+                }}
                 className="flex items-center gap-3 px-4 py-3 rounded-lg hover:bg-white/5 transition-colors group"
               >
                 <span className="material-symbols-outlined text-slate-400 group-hover:text-primary">

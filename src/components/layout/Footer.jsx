@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto grid md:grid-cols-4 gap-12 items-start">
         <div className="flex flex-col gap-4">
           <div className="flex items-center gap-2">
-            <span className="material-symbols-outlined text-gold">auto_awesome</span>
+            <span className="material-symbols-outlined text-gold"></span>
             <h2 className="text-white text-lg font-bold">{t('nav.title')}</h2>
           </div>
           <p className="text-slate-500 text-sm">
